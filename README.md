@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Banerjee</h1>
+<h1 align="center">Hey there 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Data Science Enthusiast.</h3>
 
  <!--<img alt="neural-networks" width="400" src=""> -->
