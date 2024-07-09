@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Banerjee</h1>
 <h3 align="center">A passionate Data Science Enthusiast.</h3>
 
-<!-- <img alt="neural-networks" width="400" src="https://i.gifer.com/LPYH.gif"> -->
+ <!--<img alt="neural-networks" width="400" src=""> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r25bitzcode&label=Profile%20views&color=0e75b6&style=flat" alt="r25bitzcode" /> </p>
 
