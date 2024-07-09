@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Banerjee</h1>
 <h3 align="center">A passionate Data Enthusiast.</h3>
 
-<img align="right" alt="neural networks" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fneural&psig=AOvVaw1YEnc2LE7VxSgK5mDEh0mG&ust=1720600684731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLix4cPHmYcDFQAAAAAdAAAAABAE.gif">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fneural&psig=AOvVaw1YEnc2LE7VxSgK5mDEh0mG&ust=1720600684731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLix4cPHmYcDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r25bitzcode&label=Profile%20views&color=0e75b6&style=flat" alt="r25bitzcode" /> </p>
 
