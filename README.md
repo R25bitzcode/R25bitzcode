@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML, Data Science**
 
-- 💬 Ask me about **AI/ML, Data Science, Data Analytics, Business Analytics, Quant, Gen-AI Engineering, AI/ML Ops**
+- 💬 Ask me about **AI/ML Research & Eng. , Data Science, Data Analytics, Business Analytics, Quant, Gen-AI Engineering, AI/ML Ops**
 
 - 📫 Feel free to connect with me at **banerjeerohit.careers@outlook.com**
 
